@@ -1,0 +1,112 @@
+[
+  {
+    "index": 1,
+    "type": 1,
+    "question": "WHAT ABOUT ME IS MOST STRANGE OR UNFAMILIAR TO YOU?"
+  },
+  {
+    "index": 2,
+    "type": 1,
+    "question": "WHEN WAS THE LAST TIME YOU SURPRISED YOURSELF?"
+  },
+  {
+    "index": 3,
+    "type": 1,
+    "question": "HAS A STRANGER EVER CHANGED YOUR LIFE?"
+  },
+  {
+    "index": 4,
+    "type": 1,
+    "question": "WHERE AM I MOST QUALIFIED TO GIVE ADVICE ABOUT?"
+  },
+  {
+    "index": 5,
+    "type": 1,
+    "question": "WHAT HAS THIS CONVERSATION TAUGHT YOU ABOUT YOURSELF?"
+  },
+  { "index": 6, "type": 1, "question": "WHAT\u2019S YOUR PHILOSOPHY IN LIFE?" },
+  { "index": 7, "type": 1, "question": "ARE YOU RELIGIOUS OR SPIRITUAL?" },
+  {
+    "index": 8,
+    "type": 1,
+    "question": "WHAT\u2019S YOUR FAVORITE BOOK/MOVIE OF ALL TIME AND WHY DID IT SPEAK TO YOU SO MUCH?"
+  },
+  {
+    "index": 9,
+    "type": 1,
+    "question": "WHEN HAVE YOU FELT YOUR BIGGEST ADRENALINE RUSH?"
+  },
+  {
+    "index": 10,
+    "type": 2,
+    "question": "WHAT IS THE CRAZIEST THING YOU\u2019VE EVER DONE AND WOULD YOU DO IT AGAIN?"
+  },
+  {
+    "index": 11,
+    "type": 2,
+    "question": "AM I A HUMAN BEING OR A HUMAN DOING?"
+  },
+  {
+    "index": 12,
+    "type": 2,
+    "question": "IF YOU COULD MEET ANYONE, WHO WOULD IT BE AND WHY?"
+  },
+  {
+    "index": 13,
+    "type": 2,
+    "question": "IF A CRYSTAL BALL COULD TELL YOU THE TRUTH ABOUT YOURSELF, YOUR LIFE, THE FUTURE, OR ANYTHING ELSE, WHAT WOULD YOU WANT TO KNOW?"
+  },
+  { "index": 14, "type": 2, "question": "WHAT ARE DREAMS?" },
+  { "index": 15, "type": 2, "question": "WHY DO WE EXIST?" },
+  {
+    "index": 16,
+    "type": 2,
+    "question": "IS SUFFERING NECESSARY TO EXISTENCE?"
+  },
+  { "index": 17, "type": 2, "question": "IS FREE WILL IMAGINED?" },
+  { "index": 18, "type": 2, "question": "WHY DO WE LOVE BEING IN LOVE? " },
+  { "index": 19, "type": 2, "question": "WHY ARE HUMANS SO DRAWN TO POWER?" },
+  {
+    "index": 20,
+    "type": 3,
+    "question": "WILL HUMANITY EVER EXIST WITHOUT RELIGION?"
+  },
+  {
+    "index": 21,
+    "type": 3,
+    "question": "WHY DO WE NEED TO KNOW THE MEANING OF LIFE?"
+  },
+  {
+    "index": 22,
+    "type": 3,
+    "question": "SHOULD THERE BE A LIMIT ON WHAT HUMANS CAN DO?"
+  },
+  {
+    "index": 23,
+    "type": 3,
+    "question": "IF YOU WON THE LOTTERY, WHAT WOULD YOUR \"TODAY\" LOOK LIKE IN FIVE YEARS?"
+  },
+  {
+    "index": 24,
+    "type": 3,
+    "question": "DO YOU \"WORK TO LIVE\" OR \"LIVE TO WORK\"?"
+  },
+  { "index": 25, "type": 3, "question": "DO YOU HATE OR LOVE BETTER?" },
+  { "index": 26, "type": 3, "question": "WHERE DO THOUGHTS COME FROM?" },
+  { "index": 27, "type": 3, "question": "WHAT GETS YOU EXCITED ABOUT LIFE?" },
+  {
+    "index": 28,
+    "type": 3,
+    "question": "WHAT LIFE LESSON DID YOU LEARN THE HARD WAY?"
+  },
+  {
+    "index": 29,
+    "type": 3,
+    "question": "WHO DO YOU LOVE AND WHAT ARE YOU DOING ABOUT IT?"
+  },
+  {
+    "index": 30,
+    "type": 3,
+    "question": "WHAT\u2019S A BELIEF THAT YOU HOLD WITH WHICH MANY PEOPLE DISAGREE?"
+  }
+]

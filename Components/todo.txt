@@ -1,0 +1,7 @@
+---TODO----
+
+-Go to ChooseBtn.js and make it so you can click languages and it changes langauges
+
+-Bug card flashes other color
+
+-Add reset of qoute randomize color after cards finisged

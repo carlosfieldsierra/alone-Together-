@@ -1,0 +1,144 @@
+[
+  {
+    "index": 1,
+    "type": 1,
+    "question": "WHAT'S YOUR MOTHER'S NAME AND THE MOST VALUABLE LESSON SHE'S TAUGHT YOU THUS FAR?"
+  },
+  {
+    "index": 2,
+    "type": 1,
+    "question": "WHAT'S YOUR FATHERS NAME AND ONE THING ABOUT HIM?"
+  },
+  {
+    "index": 3,
+    "type": 1,
+    "question": "IF YOU COULD GET TO KNOW SOMEONE IN YOUR LIFE ON A DEEPER LEVEL WHO WOULD IT BE AND WHY?"
+  },
+  {
+    "index": 4,
+    "type": 1,
+    "question": "WHAT'S YOUR MOM'S NAME AND WHAT IS THE MOST BEAUTIFUL THING ABOUT HER?"
+  },
+  {
+    "index": 5,
+    "type": 1,
+    "question": "WHAT DID THE PEOPLE WHO RAISED YOU TEACH YOU ABOUT LOVE?"
+  },
+  {
+    "index": 6,
+    "type": 1,
+    "question": "IF WE WERE A BAND WHAT WOULD BE OUR NAME?"
+  },
+  {
+    "index": 7,
+    "type": 1,
+    "question": "WHO IS THAT ONE PERSON YOU CAN TALK TO ABOUT JUST ANYTHING?"
+  },
+  {
+    "index": 8,
+    "type": 1,
+    "question": "WHAT ARE THREE THINGS YOU VALUE MOST ABOUT A PERSON?"
+  },
+  {
+    "index": 9,
+    "type": 1,
+    "question": "WHAT IS THE GREATEST STRUGGLE YOU\u2019VE OVERCOME?"
+  },
+  {
+    "index": 10,
+    "type": 2,
+    "question": "WHAT\u2019S ONE THING THAT BOTHERS YOU MOST ABOUT THE WORLD TODAY?"
+  },
+  {
+    "index": 11,
+    "type": 2,
+    "question": "IF YOU COULD HAVE ANY SUPER POWER, WHAT WOULD IT BE AND WHY?"
+  },
+  {
+    "index": 12,
+    "type": 2,
+    "question": "WHAT IS YOUR FAVORITE FAMILY TRADITION?"
+  },
+  {
+    "index": 13,
+    "type": 2,
+    "question": "ON A SCALE OF 1 TO 10, HOW STRICT ARE THE PARENTS IN OUR FAMILY? WHAT IS THE IDEAL NUMBER?"
+  },
+  {
+    "index": 14,
+    "type": 2,
+    "question": "WHAT\u2019S THE BEST THING ABOUT OUR FAMILY?"
+  },
+  {
+    "index": 15,
+    "type": 2,
+    "question": "DO YOU HAVE BETTER OR WORSE RELATIONSHIPS WITH YOUR SIBLING(S) THAN YOUR FRIENDS?"
+  },
+  {
+    "index": 16,
+    "type": 2,
+    "question": "WOULD YOU RATHER TIME-TRAVEL INTO THE PAST TO MEET YOUR ANCESTORS OR INTO THE FUTURE TO MEET YOUR DESCENDANTS?"
+  },
+  {
+    "index": 17,
+    "type": 2,
+    "question": "WHAT IS THE BEST THING ABOUT OUR FAMILY?"
+  },
+  {
+    "index": 18,
+    "type": 2,
+    "question": "WHAT IS THE BIGGEST FACTOR IN BEING SUCCESSFUL AT SCHOOL?"
+  },
+  {
+    "index": 19,
+    "type": 2,
+    "question": "HAVE I EVER NOT NOTICED WHEN YOU WERE SAD?"
+  },
+  {
+    "index": 20,
+    "type": 3,
+    "question": "IF YOU COULD HAVE ANY ANIMAL AS A PET, WHAT WOULD YOU PICK?"
+  },
+  {
+    "index": 21,
+    "type": 3,
+    "question": "IF YOU COULD CHANGE ONE RULE THAT OUR FAMILY HAS, WHAT WOULD YOU CHANGE?"
+  },
+  {
+    "index": 22,
+    "type": 3,
+    "question": "IF YOU COULD BE INVISIBLE FOR A DAY, WHAT WOULD YOU DO?"
+  },
+  {
+    "index": 23,
+    "type": 3,
+    "question": "WHAT IS THE BEST GIFT YOU HAVE EVER GIVEN? WHY WAS IT SO SPECIAL?"
+  },
+  {
+    "index": 24,
+    "type": 3,
+    "question": "WHAT DO YOU LIKE BETTER: GOING TO BED OR WAKING UP?"
+  },
+  {
+    "index": 25,
+    "type": 3,
+    "question": "WHAT\u2019S SOMETHING YOU LOOK FORWARD TO ALL DAY?"
+  },
+  {
+    "index": 26,
+    "type": 3,
+    "question": "IF YOU COULD MEET ANYONE, WHO WOULD IT BE AND WHY?"
+  },
+  { "index": 27, "type": 3, "question": "WHAT DO YOU LOVE ABOUT OUR HOME?" },
+  { "index": 28, "type": 3, "question": "WHAT IS YOUR EARLIEST MEMORY?" },
+  {
+    "index": 29,
+    "type": 3,
+    "question": "IF YOU COULD CHOOSE ANY WAY TO SPEND A FAMILY NIGHT AT HOME, WHAT WOULD YOU DO?"
+  },
+  {
+    "index": 30,
+    "type": 3,
+    "question": "WHAT WAS YOUR HIGH OF THE DAY AND YOUR LOW OF THE DAY?"
+  }
+]
